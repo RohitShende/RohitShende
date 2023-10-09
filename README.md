@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohitShende
 - 👀 I’m interested in exploring new technologies and solving challenging problems
-- 🌱 I’m currently learning ML and AI
+- 🌱 I’m currently exploring ML and AI
 - 💞️ I’m looking to collaborate on ML and AI projects
 - 📫 How to reach me : rohitshende16@gmail.com
 
